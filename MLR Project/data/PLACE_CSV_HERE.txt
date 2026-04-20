@@ -1,0 +1,8 @@
+Place the Shadow Robot grasping dataset CSV in this folder:
+
+  shadow_robot_dataset.csv
+
+Download it from:
+  https://www.kaggle.com/datasets/ugocupcic/grasping-dataset
+
+The file should be ~508 MB, 992,641 rows, 30 columns.
