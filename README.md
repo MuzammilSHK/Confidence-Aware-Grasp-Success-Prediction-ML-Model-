@@ -1,4 +1,5 @@
 Confidence-Aware Grasp Success Prediction
+
 Predicting whether a robotic grasp will hold, and how confident we can be about it, from the joint sensor readings of a three-finger Shadow Robot hand.
 
 This project is an end-to-end machine learning pipeline built on the Shadow Robot Grasping Dataset (~1M sensor readings, about 30 columns). Each grasp attempt is turned into a single feature vector. The pipeline then trains and compares classical classifiers, ensemble methods, regressors, clustering, and a small reinforcement-learning agent. One command runs everything and saves all figures, metrics and a comparison report.
